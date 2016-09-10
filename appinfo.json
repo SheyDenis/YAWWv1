@@ -1,0 +1,31 @@
+{
+    "appKeys": {
+        "KEY_CLOUDS": 7,
+        "KEY_CONDITION": 10,
+        "KEY_HUMIDITY": 6,
+        "KEY_MAX": 3,
+        "KEY_MIN": 4,
+        "KEY_SUNRISE": 0,
+        "KEY_SUNSET": 1,
+        "KEY_TEMPERATURE": 2,
+        "KEY_TIMEOUT": 99,
+        "KEY_WIND": 5
+    },
+    "capabilities": [
+        "location"
+    ],
+    "companyName": "masmddr",
+    "longName": "Yet another weather watchface celcius",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "2",
+    "shortName": "YAWWc",
+    "uuid": "3de5e02e-5f9b-4a10-a423-aff80a6d0430",
+    "versionCode": 1,
+    "versionLabel": "1.4",
+    "watchapp": {
+        "watchface": true
+    }
+}
